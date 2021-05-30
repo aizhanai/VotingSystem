@@ -1,0 +1,29 @@
+.wrapper {
+  width: 200px;
+  height: 300px;
+  border: 0.5px solid gray;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  width: 150px;
+  padding: 7px;
+  margin: 0 22px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+img {
+  width: 150px;
+}
+h3,
+p {
+  text-align: center;
+}
+.winner {
+  border-color: red;
+}
